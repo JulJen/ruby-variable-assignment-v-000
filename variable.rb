@@ -1,5 +1,5 @@
  # Define a local variable called 'greeting',
 
 def greeting
-  puts 'Hello World'
+  greeting = 'Hello World'
 end
